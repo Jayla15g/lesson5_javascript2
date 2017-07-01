@@ -4,20 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+*June 30, 2017*
 
 ### Student Name:  
-(First and Last Name)
+**Jayla Mitchell**
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This application is a **tax calculator** for different type of filers. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://jayla15g.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. **document.getElementById** function is used to pull information from any ID in your code
+2. **Functions** are your own procedure that you can type and it refers to a related group of Javascript statments that are executed as a *single* unit.
+3. An **iteration** is each repition of a looping statement.
 
